@@ -1,0 +1,1 @@
+docker file -> docker image -> pushed to ecr -> ecs -> s3 save
